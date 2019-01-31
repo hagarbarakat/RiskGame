@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">RiskGame</string>
+
+    <string name="newValley">new valley</string>
+    <string name="Matrouh">Matrouh</string>
+    <string name="SixthOct">6 october</string>
+    <string name="Menia">Menia</string>
+    <string name="Assiut">Assiut</string>
+    <string name="Sohag">Sohag</string>
+    <string name="RedSea">Red Sea</string>
+    <string name="NorthSinai">North Sinai</string>
+    <string name="SouthSinai">South Sinai</string>
+    <string name="Alexandria">Alexandria</string>
+    <string name="Qina">Qina</string>
+    <string name="Aswan">Aswan</string>
+    <string name="BaniSuif">Bani Suif</string>
+    <string name="Fayoum">Fayoum</string>
+    <string name="Behira">Behira</string>
+    <string name="Suez">Suez</string>
+    <string name="Ismailia">Ismailia</string>
+    <string name="Sharqia">Sharqia</string>
+    <string name="Gharbia">Gharbia</string>
+    <string name="Daqahlia">Daqahlia</string>
+    <string name="Menoufia">Menoufia</string>
+    <string name="Cairo">Cairo</string>
+    <string name="Giza">Giza</string>
+    <string name="KafrSheikh">Kafr El Sheikh</string>
+    <string name="PortSaid">Port Said</string>
+
+    <string name="CnewValley">10920362</string>
+    <string name="CMatrouh">19879142</string>
+    <string name="CSixthOct">942461</string>
+    <string name="CMenia">252205187</string>
+    <string name="CAssiut">1277115</string>
+    <string name="CSohag">781472</string>
+    <string name="CRedSea">110155197</string>
+    <string name="CNorthSinai">479424</string>
+    <string name="CSouthSinai">12256215</string>
+    <string name="CAlexandria">1583106</string>
+    <string name="CQina">56101215</string>
+    <string name="CAswan">162110197</string>
+    <string name="CBaniSuif">19430178</string>
+    <string name="CFayoum">252235187</string>
+    <string name="CBehira">1897979</string>
+    <string name="CSuez">21510656</string>
+    <string name="CIsmailia">23619127</string>
+    <string name="CSharqia">216252187</string>
+    <string name="CGharbia">1051919</string>
+    <string name="CDaqahlia">41164150</string>
+    <string name="CMenoufia">21556143</string>
+    <string name="CCairo">4920410</string>
+    <string name="CGiza">62203189</string>
+    <string name="CKafrSheikh">17988163</string>
+    <string name="CPortSaid">7212115</string>
+</resources>
